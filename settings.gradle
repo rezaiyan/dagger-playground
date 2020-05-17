@@ -1,0 +1,6 @@
+rootProject.name='DaggerPlayground'
+include ':app'
+include ':app-sdk'
+include ':authentication-sdk'
+include ':core-sdk'
+include ':feature1'
